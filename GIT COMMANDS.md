@@ -25,5 +25,6 @@
 13. **git remote -v --> Displays all the URL attached to the project directory or folder.**
 14. **git push origin main/master --> used to push all the changed files into the git hub repository to the master or main branch.**
 15. **git branch <branch-name> --> used to create a new branch.**
+16. **git fetch --all --prune: used to commit the changes from another branch
 &#x20;
 
